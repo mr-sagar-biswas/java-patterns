@@ -6,7 +6,7 @@ public class pattern5
 	{
 		System.out.println("Hello World");
 		System.out.println();
-		/*  
+/*  
 		    
           *
          **
