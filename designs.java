@@ -8,7 +8,7 @@ public class pattern1
 		/*$ $ $ $ $ 
 		  $       $       
                   $       $       
-		  $ $ $ $ $ /*
+		  $ $ $ $ $ */
 		
 	    
 		
