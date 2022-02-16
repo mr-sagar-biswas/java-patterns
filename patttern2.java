@@ -1,16 +1,16 @@
 package workingjava;
 
-public class designs2
+public class pattern2
 {
 	public static void main(String args[])
 	{
 		System.out.println("Hello World");
-		/*       * 
-			      * * 
-			     * * * 
-			    * * * * 
-			   * * * * * 
-		    * * * * * *      */
+		/*    * 
+	             * * 
+		    * * * 
+		   * * * * 
+	          * * * * * 
+		 * * * * * *      */
 		
 		int p=6;
 		for(int j=1;j<7;j++)
